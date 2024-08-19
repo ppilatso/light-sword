@@ -1,5 +1,5 @@
 ---
-title: Bachelor of Information Syatems
+title: Bachelor of Information Systems
 location: 
 url: https://www.nwu.ac.za/welcome
 institute: North-West University
