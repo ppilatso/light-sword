@@ -15,7 +15,7 @@ importers:
         specifier: ^5.1.0
         version: 5.1.0(astro@4.14.2(@types/node@22.4.1)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.3)(typescript@5.5.4))(tailwindcss@3.4.10)
       '@astrojs/vercel':
-        specifier: ^7.3.4
+        specifier: ^7.7.2
         version: 7.7.2(astro@4.14.2(@types/node@22.4.1)(lightningcss@1.25.1)(rollup@4.21.0)(terser@5.31.3)(typescript@5.5.4))
       '@fontsource-variable/dm-sans':
         specifier: ^5.0.5
