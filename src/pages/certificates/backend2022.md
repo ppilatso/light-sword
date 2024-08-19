@@ -1,9 +1,9 @@
 ---
-title: Certified Tactical Emergency Medical Technician (TEMT)
-org: 123 Main Street, Los Angeles
-tags: [Tactical Medicine, First Aid Training, Critical Care, Triage Protocol]
-url: http://akazedu.edu/seaghi
-date: 1992
+title: AWS Certified Cloud Practitioner (AWS)
+org: Amazon Web Services
+tags: [0VHGS1MK0EV4QPWS]
+url: https://cp.certmetrics.com/amazon/en/public/verify/credential/0VHGS1MK0EV4QPWS
+date: 2023
 ---
 
-The Tactical Emergency Medical Technician (TEMT) certification trains healthcare professionals to provide advanced medical care in tactical and high-risk environments, such as law enforcement operations, military settings, or emergency response scenarios. TEMTs are trained to rapidly assess and treat traumatic injuries, stabilize patients in adverse conditions, and closely collaborate with tactical and rescue teams to ensure the safety and well-being of victims.
+The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.  This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.

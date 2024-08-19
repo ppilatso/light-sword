@@ -1,14 +1,25 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Software Developer
+date: 2021 - Present
+url: https://www.momentum.co.za/momentum/about-us/our-business
+location: Centurion, Gauteng
+org: Momentum Metropolitan
+tags: [
+  "Angular", 
+  "Typescript", 
+  "JavaScript", 
+  "Java", 
+  "Spring Framework", 
+  "Docker", 
+  "Git", 
+  "Jenkins",
+  "Amazon Web Services",
+  "Micro-services"
+]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Led the development of a platform support web application using Angular 17 and Spring Framework, improving the  team's ability to perform BAU tasks more efficiently.
+- Collaborated with UX/UI designers to implement responsive designs, resulting in a 20% increase in mobile user engagement.
+- Integrated RESTful APIs and WebSocket communication to enable real-time data updates across the platform.
+- Conducted code reviews and improved overall code quality and team efficiency.
+- Managed deployment processes using Docker and Gitlab, improving build and deployment times.

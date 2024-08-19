@@ -1,15 +1,8 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
-tags:
-  [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
-  ]
+title: Bachelor of Information Syatems
+location: 
+url: https://www.nwu.ac.za/welcome
+institute: North-West University
+date: Jan 2016 - Dec 2018
+tags: []
 ---

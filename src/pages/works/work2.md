@@ -1,22 +1,23 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Software Developer
+date: 2020 - 2021
+url: https://www.momentum.co.za/momentum/about-us/our-business
+location: Centurion, Gauteng
+org: Momentum Metropolitan
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Angular", 
+    "Typescript", 
+    "JavaScript", 
+    "Java", 
+    "Spring Framework", 
+    "Docker", 
+    "Git", 
+    "Jenkins"
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Partnered with senior development leaders to strategically refactor and optimise legacy codebases, driving a substantial reduction in application startup time and minimising error rates.
+- Engaged in Agile methodologies, synergizing with cross-functional teams to deliver robust, high-quality software solutions under aggressive timelines.
+- Successfully integrated a third-party vendor into the company's lead generation ecosystem, expanding market reach and enhancing client acquisition potential.
+- Contributed to the development and enhancement of key software features, leveraging modern coding practices and tools to support the overall project lifecycle and improve user experience.

@@ -1,0 +1,26 @@
+---
+import { Icon } from "astro-icon/components";
+const { timeframe, title, description, url, tags, url_name, location } =
+  Astro.props;
+---
+
+<div class="flex justify-center w-full m-2">
+  <div
+    class="card card-compact card-bordered border-[oklch(var(--s))] w-96 md:w-112 lg:w-128 hover:shadow-lg transition-all">
+      <figure>
+        <object data={url} type="application/pdf" width="100%"></object>
+      </figure>
+      <div class="card-body">
+        <h2 class="card-title">{title}</h2>
+        <p>View and download this file by clicking on the button below</p>
+        <div class="card-actions justify-end">
+          <a target="_blank" href={url}>
+            <button class="btn btn-outline">
+              <p>Download</p>
+              <Icon name="carbon:document-pdf" class="w-6 h-6 ml-1" />
+            </button>
+          </a>
+        </div>
+      </div>
+  </div>
+</div>
