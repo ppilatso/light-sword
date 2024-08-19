@@ -3,11 +3,11 @@ frontend:
   phases:
     preBuild:
       commands:
-        - pnpm ci
+        - npm ci
     build:
       commands:
         - env >> .env
-        - pnpm run build
+        - npm run build
         - mv node_modules ./.amplify-hosting/compute/default
         - mv .env ./.amplify-hosting/compute/default/.env
   artifacts:
